@@ -18,5 +18,5 @@ The dataset used for training is sourced from a competition (e.g., Kaggle, or a 
 
 **Note:** Due to file size limitations, the original `IMAGES_512.zip` and the trained `best.pt` model are not directly committed to this repository. Links to download them (or access the trained model) are provided below:
 
-* [trained model weights](https://drive.google.com/uc?id=10RZTojUYdDgqn3EnjcEgS-SpslE7HE8j&export=download)
-* [complete dataset](https://drive.google.com/uc?id=1cay0V4judlmnphCV9O6YOTht5nXh2bMX&export=download)
+* [trained model weights](https://drive.google.com/uc?id=10RZTojUYdDgqn3EnjcEgS-SpslE7HE8j&export=download) for yolov8n_turtle_face_best.pt
+* [complete dataset](https://drive.google.com/uc?id=1cay0V4judlmnphCV9O6YOTht5nXh2bMX&export=download) for IMAGES_512.zip
