@@ -1,0 +1,7 @@
+
+path: /content/turtle_face_detection_dataset
+train: images/train
+val: images/val
+test: images/test
+nc: 1
+names: ['sea_turtle_face']
